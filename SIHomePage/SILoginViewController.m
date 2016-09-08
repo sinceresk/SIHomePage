@@ -1,21 +1,22 @@
 //
-//  ViewController.m
+//  SILoginViewController.m
 //  SIHomePage
 //
 //  Created by sincere on 16/9/8.
 //  Copyright © 2016年 cofortune. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "SILoginViewController.h"
 
-@interface ViewController ()
+@interface SILoginViewController ()
 
 @end
 
-@implementation ViewController
+@implementation SILoginViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+      self.navigationController.navigationBarHidden = NO;
     
 }
 
@@ -23,5 +24,6 @@
     [super didReceiveMemoryWarning];
     
 }
+
 
 @end

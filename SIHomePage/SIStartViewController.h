@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  SIStartViewController.h
 //  SIHomePage
 //
 //  Created by sincere on 16/9/8.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface SIStartViewController : UIViewController
 
 @end
-

@@ -2,7 +2,7 @@
 //  SIHomePageUITests.m
 //  SIHomePageUITests
 //
-//  Created by 毕胜 on 16/9/8.
+//  Created by sincere on 16/9/8.
 //  Copyright © 2016年 cofortune. All rights reserved.
 //
 

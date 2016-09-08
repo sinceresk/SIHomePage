@@ -15,6 +15,14 @@
 		10E8A2F91D814045002BD5D5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 10E8A2F71D814045002BD5D5 /* LaunchScreen.storyboard */; };
 		10E8A3041D814045002BD5D5 /* SIHomePageTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 10E8A3031D814045002BD5D5 /* SIHomePageTests.m */; };
 		10E8A30F1D814045002BD5D5 /* SIHomePageUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 10E8A30E1D814045002BD5D5 /* SIHomePageUITests.m */; };
+		10E8A3211D8140AE002BD5D5 /* 1.m4v in Resources */ = {isa = PBXBuildFile; fileRef = 10E8A31E1D8140AE002BD5D5 /* 1.m4v */; };
+		10E8A3221D8140AE002BD5D5 /* 2.m4v in Resources */ = {isa = PBXBuildFile; fileRef = 10E8A31F1D8140AE002BD5D5 /* 2.m4v */; };
+		10E8A3231D8140AE002BD5D5 /* 3.m4v in Resources */ = {isa = PBXBuildFile; fileRef = 10E8A3201D8140AE002BD5D5 /* 3.m4v */; };
+		10E8A3261D814133002BD5D5 /* SILoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 10E8A3251D814133002BD5D5 /* SILoginViewController.m */; };
+		10E8A3291D814154002BD5D5 /* SIStartViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 10E8A3281D814154002BD5D5 /* SIStartViewController.m */; };
+		10E8A32C1D814169002BD5D5 /* SIRegistViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 10E8A32B1D814169002BD5D5 /* SIRegistViewController.m */; };
+		10E8A32F1D815727002BD5D5 /* keep.png in Resources */ = {isa = PBXBuildFile; fileRef = 10E8A32D1D815727002BD5D5 /* keep.png */; };
+		10E8A3301D815727002BD5D5 /* keep@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 10E8A32E1D815727002BD5D5 /* keep@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +59,17 @@
 		10E8A30A1D814045002BD5D5 /* SIHomePageUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SIHomePageUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		10E8A30E1D814045002BD5D5 /* SIHomePageUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SIHomePageUITests.m; sourceTree = "<group>"; };
 		10E8A3101D814045002BD5D5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		10E8A31E1D8140AE002BD5D5 /* 1.m4v */ = {isa = PBXFileReference; lastKnownFileType = file; path = 1.m4v; sourceTree = "<group>"; };
+		10E8A31F1D8140AE002BD5D5 /* 2.m4v */ = {isa = PBXFileReference; lastKnownFileType = file; path = 2.m4v; sourceTree = "<group>"; };
+		10E8A3201D8140AE002BD5D5 /* 3.m4v */ = {isa = PBXFileReference; lastKnownFileType = file; path = 3.m4v; sourceTree = "<group>"; };
+		10E8A3241D814133002BD5D5 /* SILoginViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SILoginViewController.h; sourceTree = "<group>"; };
+		10E8A3251D814133002BD5D5 /* SILoginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SILoginViewController.m; sourceTree = "<group>"; };
+		10E8A3271D814154002BD5D5 /* SIStartViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SIStartViewController.h; sourceTree = "<group>"; };
+		10E8A3281D814154002BD5D5 /* SIStartViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SIStartViewController.m; sourceTree = "<group>"; };
+		10E8A32A1D814169002BD5D5 /* SIRegistViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SIRegistViewController.h; sourceTree = "<group>"; };
+		10E8A32B1D814169002BD5D5 /* SIRegistViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SIRegistViewController.m; sourceTree = "<group>"; };
+		10E8A32D1D815727002BD5D5 /* keep.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = keep.png; sourceTree = "<group>"; };
+		10E8A32E1D815727002BD5D5 /* keep@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "keep@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +100,7 @@
 		10E8A2DD1D814044002BD5D5 = {
 			isa = PBXGroup;
 			children = (
+				10E8A31D1D8140AE002BD5D5 /* MovieSource */,
 				10E8A2E81D814045002BD5D5 /* SIHomePage */,
 				10E8A3021D814045002BD5D5 /* SIHomePageTests */,
 				10E8A30D1D814045002BD5D5 /* SIHomePageUITests */,
@@ -105,6 +125,12 @@
 				10E8A2ED1D814045002BD5D5 /* AppDelegate.m */,
 				10E8A2EF1D814045002BD5D5 /* ViewController.h */,
 				10E8A2F01D814045002BD5D5 /* ViewController.m */,
+				10E8A3241D814133002BD5D5 /* SILoginViewController.h */,
+				10E8A3251D814133002BD5D5 /* SILoginViewController.m */,
+				10E8A3271D814154002BD5D5 /* SIStartViewController.h */,
+				10E8A3281D814154002BD5D5 /* SIStartViewController.m */,
+				10E8A32A1D814169002BD5D5 /* SIRegistViewController.h */,
+				10E8A32B1D814169002BD5D5 /* SIRegistViewController.m */,
 				10E8A2F21D814045002BD5D5 /* Main.storyboard */,
 				10E8A2F51D814045002BD5D5 /* Assets.xcassets */,
 				10E8A2F71D814045002BD5D5 /* LaunchScreen.storyboard */,
@@ -138,6 +164,18 @@
 				10E8A3101D814045002BD5D5 /* Info.plist */,
 			);
 			path = SIHomePageUITests;
+			sourceTree = "<group>";
+		};
+		10E8A31D1D8140AE002BD5D5 /* MovieSource */ = {
+			isa = PBXGroup;
+			children = (
+				10E8A32D1D815727002BD5D5 /* keep.png */,
+				10E8A32E1D815727002BD5D5 /* keep@2x.png */,
+				10E8A31E1D8140AE002BD5D5 /* 1.m4v */,
+				10E8A31F1D8140AE002BD5D5 /* 2.m4v */,
+				10E8A3201D8140AE002BD5D5 /* 3.m4v */,
+			);
+			path = MovieSource;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -244,8 +282,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				10E8A2F91D814045002BD5D5 /* LaunchScreen.storyboard in Resources */,
+				10E8A32F1D815727002BD5D5 /* keep.png in Resources */,
 				10E8A2F61D814045002BD5D5 /* Assets.xcassets in Resources */,
 				10E8A2F41D814045002BD5D5 /* Main.storyboard in Resources */,
+				10E8A3231D8140AE002BD5D5 /* 3.m4v in Resources */,
+				10E8A3301D815727002BD5D5 /* keep@2x.png in Resources */,
+				10E8A3221D8140AE002BD5D5 /* 2.m4v in Resources */,
+				10E8A3211D8140AE002BD5D5 /* 1.m4v in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,8 +313,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				10E8A32C1D814169002BD5D5 /* SIRegistViewController.m in Sources */,
+				10E8A3291D814154002BD5D5 /* SIStartViewController.m in Sources */,
 				10E8A2F11D814045002BD5D5 /* ViewController.m in Sources */,
 				10E8A2EE1D814045002BD5D5 /* AppDelegate.m in Sources */,
+				10E8A3261D814133002BD5D5 /* SILoginViewController.m in Sources */,
 				10E8A2EB1D814045002BD5D5 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -414,6 +460,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = SIHomePage/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.cofortune.www.SIHomePage;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -425,6 +472,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = SIHomePage/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.cofortune.www.SIHomePage;
 				PRODUCT_NAME = "$(TARGET_NAME)";
